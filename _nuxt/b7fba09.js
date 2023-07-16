@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{339:function(n,t,e){"use strict";e.r(t);var o={name:"AboutPage",data:function(){return{}}},r=e(41),component=Object(r.a)(o,(function(){return(0,this._self._c)("main",[this._v("This is an about page for Sampler.")])}),[],!1,null,"383725d0",null);t.default=component.exports}}]);

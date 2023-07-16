@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{341:function(n,t,e){"use strict";e.r(t);var l={name:"ProjectsPage",data:function(){return{}}},o=e(41),component=Object(o.a)(l,(function(){return(0,this._self._c)("main",[this._v("This page will show all projects within Sampler.")])}),[],!1,null,"90556404",null);t.default=component.exports}}]);

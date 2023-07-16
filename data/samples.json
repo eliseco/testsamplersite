@@ -1,0 +1,71 @@
+{
+  "singles": [
+    {
+      "id": 0,
+      "image": "images/black_yellow.png",
+      "caption": "black and yellow flyknit"
+    },
+    {
+      "id": 1,
+      "image": "images/blue_white.png",
+      "caption": "blue and white flyknit"
+    },
+    {
+      "id": 2,
+      "image": "images/green_green.png",
+      "caption": "green and green flyknit"
+    },
+    {
+      "id": 3,
+      "image": "images/green_grey.png",
+      "caption": "green and grey flyknit"
+    },
+    {
+      "id": 4,
+      "image": "images/purple_white.png",
+      "caption": "purple and white mesh sample"
+    },
+    {
+      "id": 5,
+      "image": "images/purple_yellow.png",
+      "caption": "purple and yellow mesh sample"
+    },
+    {
+      "id": 6,
+      "image": "images/purple.png",
+      "caption": "purple mesh sample"
+    }
+  ],
+  "sets": [
+    {
+      "id": 0,
+      "singleIds": [4, 5, 6],
+      "setIds": [],
+      "caption": "lace carriage techniques"
+    },
+    {
+      "id": 1,
+      "singleIds": [0, 1, 2, 3],
+      "setIds": [],
+      "caption": "flyknit uppers"
+    },
+    {
+      "id": 4,
+      "singleIds": [],
+      "setIds": [2],
+      "caption": "projects"
+    },
+    {
+      "id": 2,
+      "singleIds": [],
+      "setIds": [0, 1],
+      "caption": "project flyknit"
+    },
+    {
+      "id": 3,
+      "singleIds": [0],
+      "setIds": [0],
+      "caption": "lace short rows"
+    }
+  ]
+}
